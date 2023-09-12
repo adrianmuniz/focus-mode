@@ -1,0 +1,1 @@
+Extensão que ativa o modo foco da página
